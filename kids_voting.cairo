@@ -1,4 +1,4 @@
-%lang starknet
+ starknet
 
 from starkware.cairo.common.math import assert_nn
 
