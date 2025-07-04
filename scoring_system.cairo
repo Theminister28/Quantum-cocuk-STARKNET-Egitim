@@ -1,4 +1,4 @@
-%lang starknet
+starknet
 
 # Çocuklar için oyun puanlama sistemi
 @storage_var
