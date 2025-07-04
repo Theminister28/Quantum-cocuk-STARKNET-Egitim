@@ -1,4 +1,4 @@
-%lang starknet
+ starknet
 from starkware.cairo.common.cairo_builtins import HashBuiltin
 
 # Çocuklar için basit NFT sertifika kontratı
