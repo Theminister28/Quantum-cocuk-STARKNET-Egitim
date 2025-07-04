@@ -38,3 +38,15 @@ Quantum cocuklar icin Starknet ornekleri
 git clone https://github.com/Theminister28/Quantum-cocuk-STARKNET-Egitim.git
 cd Quantum-cocuk-STARKNET-Egitim
 protostar install
+
+
+Quantum-cocuk-STARKNET-Egitim/
+├── contracts/
+│   ├── voting_contract.cairo
+│   ├── certificate_nft.cairo
+│   └── scoring_system.cairo
+├── education/
+│   ├── cairo_basics.md
+│   └── workshop_guide.md
+├── LICENSE
+└── README.md 
