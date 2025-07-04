@@ -2,7 +2,7 @@
 Quantum cocuklar icin Starknet ornekleri
 🌍 Quantum Dünya Çocuk Meclisi - Starknet Eğitim Modülleri
 
-> *Starknet Tohum Hibesi #QC2024* kapsamında geliştirilen, 12-18 yaş grubuna yönelik interaktif Web3 öğrenme araçları
+> *Starknet Tohum Hibesi #QC2024-25* kapsamında geliştirilen, 12-18 yaş grubuna yönelik interaktif Web3 öğrenme araçları
 
 <div align="center">
   <img src="https://img.shields.io/badge/Made%20with-Cairo-9cf" alt="Cairo">
@@ -23,7 +23,7 @@ Quantum cocuklar icin Starknet ornekleri
 
 ### 📚 Eğitim Materyalleri
 - [cairo_basics.md](education/cairo_basics.md) - Çocuklar için Cairo rehberi
-- [workshop_guide.pdf](education/workshop_guide.pdf) - Öğretmenler için ders planı
+- [workshop_guide.md](education/workshop_guide.md) - Öğretmenler için ders planı
 
 ---
 
